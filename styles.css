@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:center; 
+	align-items:center;
+}
+.section{
+	margin-left:40px;
+}
+.section>button{
+	background-color:red;
+	border:none;
+	border-radius:5px;
+	padding:10px;
+	color:white;
+	margin-left:50px;
+}
+
