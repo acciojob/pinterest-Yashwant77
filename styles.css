@@ -1,4 +1,8 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
 .hero{
 	display:flex;
 	justify-content:center; 
@@ -11,7 +15,8 @@
 }
 
 button{
-	
+	font-weight:700;
+	margin-top:10px;
 	background-color:red;
 	border:none;
 	border-radius:5px;
