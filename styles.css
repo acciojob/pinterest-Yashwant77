@@ -6,9 +6,12 @@
 }
 .section{
 	margin-left:40px;
-	box-sizing :border-box;
+	text-align:center;
+	box-sizing:border-box;
 }
-.section>button{
+
+button{
+	
 	background-color:red;
 	border:none;
 	border-radius:5px;
