@@ -6,6 +6,7 @@
 }
 .section{
 	margin-left:40px;
+	box-sizing :border-box;
 }
 .section>button{
 	background-color:red;
